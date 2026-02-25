@@ -4,7 +4,7 @@ Our goal is to provide the most transparent and simple software for deploying se
 
 ## Our projects
 We maintain several projects.
-- [hitori]https://github.com/modoruru/hitori): a plugin-based framework
+- [hitori](https://github.com/modoruru/hitori): a plugin-based framework
 - [hitori-ux](https://github.com/modoruru/hitori-ux) and [hitori-resourcepack](https://github.com/modoruru/hitori-resourcepack): two main modules using hitori framework providing numerous features and APIs for other modules
 
 ## Our server
