@@ -1,4 +1,5 @@
 # Contributing
+[Русская версия](./CONTRIBUTING_ru.md)
 ## Basic guidelines
 
 ### Do not make PR for formatting or "cleaning" code
