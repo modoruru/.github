@@ -7,7 +7,7 @@ If you are creating PR with code changes, feel free to fix formatting in the gen
 No one wants to spend time on reviewing PR of 1-2 lines.
 
 ### Do not make AI "contributions"
-Asking AI questions, and using that information to help you write code - god. Using it to actually write code - No.
+Asking AI questions, and using that information to help you write code - good. Using it to actually write code - No.
 You will be banned if you submit AI code to our repo's.
 
 ## Code style guidelines
